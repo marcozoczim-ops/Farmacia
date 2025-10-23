@@ -1,0 +1,27 @@
+body{
+    background-color: #e9ffcd;
+    margin: 0px;
+    padding: 0px;
+}
+#anuncio{
+    text-align: center;
+    color: #e9ffcd;
+    background-color: #008d23;
+    border-radius: 5px;
+    font-size: 14px;
+    padding-top: 5px;
+    width: 1910px;
+    height: 35px;
+}
+
+h1{
+    margin: 0px;
+    padding: 0px;
+}
+
+#cabecalho{
+    background-color: #96e072;
+    width: 1910px;
+    height: 120px;
+
+}
